@@ -1,0 +1,7 @@
+22:15:50.222 [main] INFO  udemy.Log4JSample - Window Maximized
+22:15:50.231 [main] DEBUG udemy.Log4JSample - Now hitting Amazon server
+22:15:56.343 [main] INFO  udemy.Log4JSample - Landed on amazon home page
+22:16:08.387 [main] DEBUG udemy.Log4JSample - Getting the frames count
+22:16:08.502 [main] INFO  udemy.Log4JSample - Frames count retreived
+22:16:08.759 [main] INFO  udemy.Log4JSample - Successfully switched to frame
+22:16:08.760 [main] DEBUG udemy.Log4JSample - Identifying Draggable objects
